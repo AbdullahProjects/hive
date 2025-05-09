@@ -91,7 +91,7 @@ Want to jump to a specific section? Here's a handy table of contents:
 
 - [Opening Boxes](#-opening-boxes)
 - [Closing Boxes](#-bidding-adieu-closing-boxes)
-- [Inserting](#filling-the-honeycomb-inserting-data)
+- [Inserting](#-inserting-data)
 - [Reading](#-extracting-honey-i-mean-data)
 - [Deleting](#-deleting-data)
 - [Using Boxes like Lists](#-using-boxes-like-lists)
@@ -134,7 +134,7 @@ To close a box just call `box.close()`. Wipe the box from the face of the earth 
 
 > Bee fact: When a bee finds a good source of nectar, it flies back to the hive and shows its friends where the nectar source is by doing a dance.
 
-### ✍️ Filling the Honeycomb: Inserting Data
+### ✍️ Inserting Data
 
 Once we have a box, it's time to fill it with sweet data! At its core, a box is just a key-value store. String keys are mapped to arbitrary primitive values. You can think of a box as a persisted `Map<String, dynamic>`.
 
