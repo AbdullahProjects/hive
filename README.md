@@ -91,7 +91,7 @@ Want to jump to a specific section? Here's a handy table of contents:
 
 - [Opening Boxes](#-opening-boxes)
 - [Closing Boxes](#-bidding-adieu-closing-boxes)
-- [Inserting](#-filling-the-honeycomb-inserting-data)
+- [Inserting](#filling-the-honeycomb-inserting-data)
 - [Reading](#-extracting-honey-i-mean-data)
 - [Deleting](#-deleting-data)
 - [Using Boxes like Lists](#-using-boxes-like-lists)
